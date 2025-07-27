@@ -1,0 +1,9 @@
+Machine learning is a subfield of artificial intelligence that focuses on developing algorithms that allow computers to learn from and make decisions based on data. It is broadly categorized into three types: supervised learning, unsupervised learning, and reinforcement learning.
+
+Supervised learning involves training a model on a labeled dataset, where each input is paired with a corresponding output. This method is commonly used for tasks like classification (e.g., spam detection) and regression (e.g., predicting house prices). The model learns to map inputs to outputs by minimizing error.
+
+In contrast, unsupervised learning is applied to data without labeled outcomes. The goal is to discover hidden patterns or structures in the data. Common techniques include clustering (e.g., grouping customers by purchasing behavior) and dimensionality reduction (e.g., compressing image data while preserving key features).
+
+Reinforcement learning is a different paradigm where an agent learns to make a sequence of decisions by interacting with an environment. It receives feedback in the form of rewards or penalties and aims to maximize cumulative reward. This approach is widely used in robotics, game playing (e.g., AlphaGo), and autonomous systems.
+
+Each type of learning is suited to different problems depending on the availability of labeled data, the nature of the task, and the learning environment.
